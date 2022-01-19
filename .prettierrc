@@ -1,0 +1,8 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "printWidth": 80,
+  "prettier.trailingComma": "es5",
+  "prettier.jsxBracketSameLine": false,
+  "prettier.bracketSpacing": true
+}
